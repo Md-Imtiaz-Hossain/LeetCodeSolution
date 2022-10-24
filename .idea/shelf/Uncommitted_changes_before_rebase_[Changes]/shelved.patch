@@ -1,0 +1,52 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,15 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/O1_easy/O2_Palindrome_9.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/O1_easy/O3_RunningSum1dArray_1480.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/O1_easy/O4_TwoSum_1.java" afterDir="false" />
++    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day: 01, Problem(Easy) no: 1, 9, 1480, 1108, 1662, 2235 complete today.">
+       <change afterPath="$PROJECT_DIR$/src/O1_easy/O5_AddBinary_67.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/O1_easy/O6_StringEquivalent_1662.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/O1_easy/O7_DefiningIpAddress_1108.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docm" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docm" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -134,8 +127,16 @@
+       <workItem from="1666596783587" duration="2106000" />
+       <workItem from="1666602538987" duration="5353000" />
+       <workItem from="1666612335272" duration="9385000" />
+-      <workItem from="1666624145302" duration="778000" />
++      <workItem from="1666624145302" duration="1236000" />
+     </task>
++    <task id="LOCAL-00001" summary="Day: 01, Problem(Easy) no: 1, 9, 1480, 1108, 1662 complete today.">
++      <created>1666625079336</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1666625079336</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -154,5 +155,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="Day: 01, Problem(Easy) no: 1, 9, 1480, 1108, 1662, 2235 complete today." />
++    <option name="LAST_COMMIT_MESSAGE" value="Day: 01, Problem(Easy) no: 1, 9, 1480, 1108, 1662, 2235 complete today." />
+   </component>
+ </project>
+\ No newline at end of file

@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeSolution.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/All Solution At Once.docm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/O1_AddTwoIntegers_2235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/O2_Palindrome_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/O3_RunningSum1dArray_1480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/O4_StringEquivalent_1662.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/O5_DefiningIpAddress_1108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docm" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/imtiaz/All Other files/My work/LeetCodeSolution/src",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/imtiaz/All Other files/My work/LeetCodeSolution/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.O1_AddTwoIntegers_2235">
     <configuration name="AddTwoIntegers_2235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="O1_easy.AddTwoIntegers_2235" />
