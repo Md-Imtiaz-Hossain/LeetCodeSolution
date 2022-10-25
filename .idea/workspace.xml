@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O6_ConcatenationOfArray_1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Note done.">
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O10_TruncateSentence_1816.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O7_FinalValueOfVariableAfterPerformingOperations_2011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O8_NumberOfGoodPairs_1512.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O9_SmallerThanCurrentNumber_1365.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/~$l Solution At Once.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/O1_AddTwoIntegers_2235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_01/O1_AddTwoIntegers_2235.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/O2_Palindrome_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_01/O2_Palindrome_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/O3_RunningSum1dArray_1480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_01/O3_RunningSum1dArray_1480.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/O4_StringEquivalent_1662.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_01/O4_StringEquivalent_1662.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/O5_DefiningIpAddress_1108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_01/O5_DefiningIpAddress_1108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,39 +44,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/imtiaz/All Other files/My work/LeetCodeSolution/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/My work/LeetCodeSolution/src/O1_easy/day_02&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.O6_ConcatenationOfArray_1929">
-    <configuration name="AddTwoIntegers_2235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.AddTwoIntegers_2235" />
-      <module name="LeetCodeSolution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="O1_easy.day_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="O1_AddTwoIntegers_2235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_01.O1_AddTwoIntegers_2235" />
-      <module name="LeetCodeSolution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="O1_easy.day_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="O6_ConcatenationOfArray_1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O6_ConcatenationOfArray_1929" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.O10_TruncateSentence_1816">
+    <configuration name="O10_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O10_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +67,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.Test" />
+    <configuration name="O10_TruncateSentence_1816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O10_TruncateSentence_1816" />
+      <module name="LeetCodeSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="O8_NumberOfGoodPairs_1512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O8_NumberOfGoodPairs_1512" />
+      <module name="LeetCodeSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="O9_SmallerThanCurrentNumber_1365" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O9_SmallerThanCurrentNumber_1365" />
+      <module name="LeetCodeSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="O9_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O9_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
@@ -109,10 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O6_ConcatenationOfArray_1929" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.O1_AddTwoIntegers_2235" />
-        <item itemvalue="Application.AddTwoIntegers_2235" />
+        <item itemvalue="Application.O10_TruncateSentence_1816" />
+        <item itemvalue="Application.O10_Test" />
+        <item itemvalue="Application.O9_SmallerThanCurrentNumber_1365" />
+        <item itemvalue="Application.O9_Test" />
+        <item itemvalue="Application.O8_NumberOfGoodPairs_1512" />
       </list>
     </recent_temporary>
   </component>
@@ -126,8 +139,18 @@
       <updated>1666591324642</updated>
       <workItem from="1666596783587" duration="2106000" />
       <workItem from="1666673562636" duration="2617000" />
-      <workItem from="1666678759693" duration="3745000" />
+      <workItem from="1666678759693" duration="4412000" />
+      <workItem from="1666695636572" duration="14216000" />
+      <workItem from="1666711512908" duration="2659000" />
     </task>
+    <task id="LOCAL-00001" summary="Note done.">
+      <created>1666686371079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666686371079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,5 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Note done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Note done." />
   </component>
 </project>
