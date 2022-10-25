@@ -1,4 +1,4 @@
-package O1_easy;
+package O1_easy.day_01;
 public class O2_Palindrome_9 {
     public static void main(String args[]){
         Solution_9 solution = new Solution_9();

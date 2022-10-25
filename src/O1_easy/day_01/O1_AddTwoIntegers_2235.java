@@ -1,4 +1,4 @@
-package O1_easy;
+package O1_easy.day_01;
 
 public class O1_AddTwoIntegers_2235 {
     public static void main(String[] args) {

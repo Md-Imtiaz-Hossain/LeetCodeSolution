@@ -1,4 +1,4 @@
-package O1_easy;
+package O1_easy.day_01;
 
 
 public class O4_StringEquivalent_1662 {

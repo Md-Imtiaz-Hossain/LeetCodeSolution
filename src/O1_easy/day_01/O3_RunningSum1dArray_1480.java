@@ -1,4 +1,4 @@
-package O1_easy;
+package O1_easy.day_01;
 
 import java.util.Arrays;
 
