@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Note done.">
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O10_TruncateSentence_1816.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O7_FinalValueOfVariableAfterPerformingOperations_2011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O8_NumberOfGoodPairs_1512.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_02/O9_SmallerThanCurrentNumber_1365.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/~$l Solution At Once.docx" afterDir="false" />
+    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 02: 1365, 1929, 1512, 1816, 2011.">
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O11_MaxNumberOfWordInSentence_2114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O12_TwoSum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O13_RemoveDuplicateFromsortedArray_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O14_AddString_415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O15_ToLowerCase_709.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
@@ -53,13 +53,13 @@
       <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.O10_TruncateSentence_1816">
-    <configuration name="O10_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O10_Test" />
+  <component name="RunManager" selected="Application.O15_Test">
+    <configuration name="O12_TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O12_TwoSum_1" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="PATTERN" value="O1_easy.day_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O10_TruncateSentence_1816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O10_TruncateSentence_1816" />
+    <configuration name="O13_RemoveDuplicateFromsortedArray_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O13_RemoveDuplicateFromsortedArray_26" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="PATTERN" value="O1_easy.day_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O8_NumberOfGoodPairs_1512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O8_NumberOfGoodPairs_1512" />
+    <configuration name="O13_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O13_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="PATTERN" value="O1_easy.day_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O9_SmallerThanCurrentNumber_1365" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O9_SmallerThanCurrentNumber_1365" />
+    <configuration name="O14_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O14_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="PATTERN" value="O1_easy.day_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O9_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_02.O9_Test" />
+    <configuration name="O15_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O15_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_02.*" />
+          <option name="PATTERN" value="O1_easy.day_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O10_TruncateSentence_1816" />
-        <item itemvalue="Application.O10_Test" />
-        <item itemvalue="Application.O9_SmallerThanCurrentNumber_1365" />
-        <item itemvalue="Application.O9_Test" />
-        <item itemvalue="Application.O8_NumberOfGoodPairs_1512" />
+        <item itemvalue="Application.O15_Test" />
+        <item itemvalue="Application.O14_Test" />
+        <item itemvalue="Application.O13_RemoveDuplicateFromsortedArray_26" />
+        <item itemvalue="Application.O13_Test" />
+        <item itemvalue="Application.O12_TwoSum_1" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,10 @@
       <workItem from="1666673562636" duration="2617000" />
       <workItem from="1666678759693" duration="4412000" />
       <workItem from="1666695636572" duration="14216000" />
-      <workItem from="1666711512908" duration="2659000" />
+      <workItem from="1666711512908" duration="2737000" />
+      <workItem from="1666715618677" duration="268000" />
+      <workItem from="1666756497060" duration="672000" />
+      <workItem from="1666781389381" duration="18369000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
@@ -150,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666686371079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 02: 1365, 1929, 1512, 1816, 2011.">
+      <created>1666715593380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666715593380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Note done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Note done." />
+    <MESSAGE value="Day 02: 1365, 1929, 1512, 1816, 2011." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 02: 1365, 1929, 1512, 1816, 2011." />
   </component>
 </project>
