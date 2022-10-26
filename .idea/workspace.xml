@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 02: 1365, 1929, 1512, 1816, 2011.">
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O11_MaxNumberOfWordInSentence_2114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O12_TwoSum_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O13_RemoveDuplicateFromsortedArray_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O14_AddString_415.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_03/O15_ToLowerCase_709.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
-    </list>
+    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 03: 1, 26, 415, 709, 2114 no problem solved." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +135,7 @@
       <workItem from="1666711512908" duration="2737000" />
       <workItem from="1666715618677" duration="268000" />
       <workItem from="1666756497060" duration="672000" />
-      <workItem from="1666781389381" duration="18369000" />
+      <workItem from="1666781389381" duration="18629000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
@@ -160,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666715593380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 03: 1, 26, 415, 709, 2114 no problem solved.">
+      <created>1666801917534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666801917534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +179,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Note done." />
     <MESSAGE value="Day 02: 1365, 1929, 1512, 1816, 2011." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 02: 1365, 1929, 1512, 1816, 2011." />
+    <MESSAGE value="Day 03: 1, 26, 415, 709, 2114 no problem solved." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 03: 1, 26, 415, 709, 2114 no problem solved." />
   </component>
 </project>
