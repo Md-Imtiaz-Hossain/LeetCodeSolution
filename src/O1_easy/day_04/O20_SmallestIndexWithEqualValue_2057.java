@@ -2,7 +2,6 @@ package O1_easy.day_04;
 
 public class O20_SmallestIndexWithEqualValue_2057 {
     public static void main(String[] args) {
-
         Solution_2057 solution_2057 = new Solution_2057();
         int[] arr = {0, 1, 2};
         int[] arr2 = {4, 3, 2, 1};
@@ -25,3 +24,4 @@ class Solution_2057 {
 }
 
 // https://leetcode.com/problems/smallest-index-with-equal-value/
+

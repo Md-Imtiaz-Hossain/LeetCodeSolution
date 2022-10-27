@@ -3,6 +3,7 @@ package O1_easy.day_04;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class O18_KidsWithGreatestNumberOfCandies_1431 {
     public static void main(String[] args) {
@@ -36,42 +37,3 @@ class Solution_1431 {
 }
 
 // https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-
-//class Solution {
-//    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-//        int max = Arrays.stream(candies).max().getAsInt();
-//        return Arrays.stream(candies).mapToObj(candy -> candy + extraCandies >= max).collect(Collectors.toList());
-//    }
-//}
-//
-//class Solution {
-//    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-//        List<Boolean> ans = new ArrayList<>(candies.length);
-//        int max = 0;
-//        for (int candy : candies) {
-//            max = Math.max(candy, max);
-//        }
-//        for (int candy : candies) {
-//            ans.add(candy + extraCandies >= max);
-//        }
-//        return ans;
-//    }
-//}
-//
-//class Solution {
-//    public List<Boolean> kidsWithCandies(int[] cs, int e) {
-//        int max = 0;
-//        List<Boolean> res = new ArrayList<>();
-//        for (int n : cs) max = Math.max(n, max);
-//        for (int n : cs) res.add(n + e >= max);
-//        return res;
-//    }
-//}
-
-
-
-
-
-
-
-
