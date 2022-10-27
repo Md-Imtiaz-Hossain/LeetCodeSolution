@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 03: 1, 26, 415, 709, 2114 no problem solved." />
+    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 03: 1, 26, 415, 709, 2114 no problem solved.">
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O16_ShuffleTheString_1470.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O17_RichestCustomerWealth_1672.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O18_KidsWithGreatestNumberOfCandies_1431.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O20_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,13 +53,13 @@
       <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.O15_Test">
-    <configuration name="O12_TwoSum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O12_TwoSum_1" />
+  <component name="RunManager" selected="Application.O20_Test">
+    <configuration name="O17_RichestCustomerWealth_1672" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O17_RichestCustomerWealth_1672" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_03.*" />
+          <option name="PATTERN" value="O1_easy.day_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O13_RemoveDuplicateFromsortedArray_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O13_RemoveDuplicateFromsortedArray_26" />
+    <configuration name="O17_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O17_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_03.*" />
+          <option name="PATTERN" value="O1_easy.day_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O13_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O13_Test" />
+    <configuration name="O18_KidsWithGreatestNumberOfCandies_1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O18_KidsWithGreatestNumberOfCandies_1431" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_03.*" />
+          <option name="PATTERN" value="O1_easy.day_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O14_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O14_Test" />
+    <configuration name="O18_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O18_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_03.*" />
+          <option name="PATTERN" value="O1_easy.day_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O15_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_03.O15_Test" />
+    <configuration name="O20_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O20_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_03.*" />
+          <option name="PATTERN" value="O1_easy.day_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O15_Test" />
-        <item itemvalue="Application.O14_Test" />
-        <item itemvalue="Application.O13_RemoveDuplicateFromsortedArray_26" />
-        <item itemvalue="Application.O13_Test" />
-        <item itemvalue="Application.O12_TwoSum_1" />
+        <item itemvalue="Application.O20_Test" />
+        <item itemvalue="Application.O18_KidsWithGreatestNumberOfCandies_1431" />
+        <item itemvalue="Application.O18_Test" />
+        <item itemvalue="Application.O17_RichestCustomerWealth_1672" />
+        <item itemvalue="Application.O17_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +145,8 @@
       <workItem from="1666715618677" duration="268000" />
       <workItem from="1666756497060" duration="672000" />
       <workItem from="1666781389381" duration="18629000" />
+      <workItem from="1666851746710" duration="11130000" />
+      <workItem from="1666910677493" duration="3825000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
