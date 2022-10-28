@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 03: 1, 26, 415, 709, 2114 no problem solved.">
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O19_NumberOfArithmeticTriplets_2367.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O21_JewelsAndStones_771.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O22_GoalParserInterpretation_1678.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O23_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_04/O16_ShuffleTheString_1470.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O16_ShuffleTheString_1470.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_04/O17_RichestCustomerWealth_1672.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O17_RichestCustomerWealth_1672.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_04/O18_KidsWithGreatestNumberOfCandies_1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O18_KidsWithGreatestNumberOfCandies_1431.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_04/O19_Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_04/O20_SmallestIndexWithEqualValue_2057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_04/O20_SmallestIndexWithEqualValue_2057.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +49,13 @@
       <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.O19_NumberOfArithmeticTriplets_2367">
-    <configuration name="O17_RichestCustomerWealth_1672" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O17_RichestCustomerWealth_1672" />
+  <component name="RunManager" selected="Application.O23_Test (1)">
+    <configuration name="O21_JewelsAndStones_771" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O21_JewelsAndStones_771" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_04.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O18_KidsWithGreatestNumberOfCandies_1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O18_KidsWithGreatestNumberOfCandies_1431" />
+    <configuration name="O21_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O21_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_04.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O18_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O18_Test" />
+    <configuration name="O22_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O22_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_04.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O19_NumberOfArithmeticTriplets_2367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O19_NumberOfArithmeticTriplets_2367" />
+    <configuration name="O23_Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O23_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_04.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O20_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_04.O20_Test" />
+    <configuration name="O23_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O23_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_04.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O19_NumberOfArithmeticTriplets_2367" />
-        <item itemvalue="Application.O20_Test" />
-        <item itemvalue="Application.O18_KidsWithGreatestNumberOfCandies_1431" />
-        <item itemvalue="Application.O18_Test" />
-        <item itemvalue="Application.O17_RichestCustomerWealth_1672" />
+        <item itemvalue="Application.O23_Test (1)" />
+        <item itemvalue="Application.O23_Test" />
+        <item itemvalue="Application.O22_Test" />
+        <item itemvalue="Application.O21_JewelsAndStones_771" />
+        <item itemvalue="Application.O21_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +144,7 @@
       <workItem from="1666851746710" duration="11130000" />
       <workItem from="1666910677493" duration="3825000" />
       <workItem from="1666893517299" duration="1670000" />
+      <workItem from="1666931884908" duration="8111000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
