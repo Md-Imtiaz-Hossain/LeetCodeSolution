@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 03: 1, 26, 415, 709, 2114 no problem solved.">
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_20/O_ReverseWordInString_557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_20/O_Test_1967.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/All Solution At Once.docm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O23_SmallestIndexWithEqualValue_2057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O24_NumberOfArithmeticTriplets_2367.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O25_ShuffleString_1528.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_05/O21_JewelsAndStones_771.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O21_JewelsAndStones_771.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_05/O22_GoalParserInterpretation_1678.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_05/O22_GoalParserInterpretation_1678.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_05/O23_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +55,13 @@
       <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.O_Test_1967">
-    <configuration name="O26_Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_06.O26_Test" />
+  <component name="RunManager" selected="Application.O25_ShuffleString_1528">
+    <configuration name="O23_SmallestIndexWithEqualValue_2057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O23_SmallestIndexWithEqualValue_2057" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_06.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O27_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_06.O27_Test" />
+    <configuration name="O23_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O23_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_06.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O_ReverseWordInString_557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_20.O_ReverseWordInString_557" />
+    <configuration name="O24_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O24_Test" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_20.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_20.O_Test" />
+    <configuration name="O25_ShuffleString_1528" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O25_ShuffleString_1528" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_20.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O_Test_1967" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_20.O_Test_1967" />
+    <configuration name="O25_Test_1528" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O25_Test_1528" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_20.*" />
+          <option name="PATTERN" value="O1_easy.day_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O_Test_1967" />
-        <item itemvalue="Application.O_ReverseWordInString_557" />
-        <item itemvalue="Application.O_Test" />
-        <item itemvalue="Application.O27_Test" />
-        <item itemvalue="Application.O26_Test (1)" />
+        <item itemvalue="Application.O25_ShuffleString_1528" />
+        <item itemvalue="Application.O25_Test_1528" />
+        <item itemvalue="Application.O24_Test" />
+        <item itemvalue="Application.O23_SmallestIndexWithEqualValue_2057" />
+        <item itemvalue="Application.O23_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +153,7 @@
       <workItem from="1666931884908" duration="8111000" />
       <workItem from="1667806833564" duration="606000" />
       <workItem from="1668265981075" duration="4387000" />
+      <workItem from="1668320264956" duration="3975000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
