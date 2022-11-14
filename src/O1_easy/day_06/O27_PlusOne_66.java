@@ -2,17 +2,17 @@ package O1_easy.day_06;
 
 import java.util.Arrays;
 
-public class O27_Test {
+public class O27_PlusOne_66 {
     public static void main(String[] args) {
-        Solution_ s = new Solution_();
+        Solution_66 solution_66 = new Solution_66();
         int[] a = {4, 3, 2, 1};
         int[] digits = {9};
-        System.out.println(Arrays.toString(s.plusOne(a)));
-        System.out.println(Arrays.toString(s.plusOne(digits)));
+        System.out.println(Arrays.toString(solution_66.plusOne(a)));
+        System.out.println(Arrays.toString(solution_66.plusOne(digits)));
     }
 }
 
-class Solution_ {
+class Solution_66 {
     public int[] plusOne(int[] digits) {
 
         String s = "";
@@ -21,7 +21,6 @@ class Solution_ {
         }
 
         Integer total = 1 + Integer.parseInt(s);
-
         String ss = String.valueOf(total);
 
         char[] c = ss.toCharArray();
@@ -34,3 +33,6 @@ class Solution_ {
         return result;
     }
 }
+
+// https://leetcode.com/problems/plus-one/
+
