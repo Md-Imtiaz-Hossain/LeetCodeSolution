@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 05: note Update">
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_06/O26_SingleNumber_136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_06/O29_DecodeTheMessage_2325.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_06/O30_CellsInARangeOnExcelSheet_2194.java" afterDir="false" />
+    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 06: 2194, 2325, 1720, 136, 66 done.">
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O31_CreateTargetArrayInGivenArray_1389.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O33_SortThePeople_2418.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O34_UniqueMorseCodeWords_804.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O35_SumOfAllOldLengthSubArray_1588.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/All Solution At Once.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_06/O26_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_06/O28_DecodeXORedArray_1720.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/O1_easy/day_06/O27_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/O1_easy/day_06/O27_PlusOne_66.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,13 @@
       <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.O30_CellsInARangeOnExcelSheet_2194">
-    <configuration name="O25_ShuffleString_1528" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O25_ShuffleString_1528" />
+  <component name="RunManager" selected="Application.O35_SumOfAllOldLengthSubArray_1588">
+    <configuration name="O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_05.*" />
+          <option name="PATTERN" value="O1_easy.day_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O25_Test_1528" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_05.O25_Test_1528" />
+    <configuration name="O32_T_2006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O32_T_2006" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_05.*" />
+          <option name="PATTERN" value="O1_easy.day_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O26_SingleNumber_136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_06.O26_SingleNumber_136" />
+    <configuration name="O33_SortThePeople_2418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O33_SortThePeople_2418" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_06.*" />
+          <option name="PATTERN" value="O1_easy.day_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O28_DecodeXORedArray_1720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_06.O28_DecodeXORedArray_1720" />
+    <configuration name="O34_UniqueMorseCodeWords_804" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O34_UniqueMorseCodeWords_804" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_06.*" />
+          <option name="PATTERN" value="O1_easy.day_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O30_CellsInARangeOnExcelSheet_2194" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_06.O30_CellsInARangeOnExcelSheet_2194" />
+    <configuration name="O35_SumOfAllOldLengthSubArray_1588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O35_SumOfAllOldLengthSubArray_1588" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_06.*" />
+          <option name="PATTERN" value="O1_easy.day_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O30_CellsInARangeOnExcelSheet_2194" />
-        <item itemvalue="Application.O26_SingleNumber_136" />
-        <item itemvalue="Application.O28_DecodeXORedArray_1720" />
-        <item itemvalue="Application.O25_ShuffleString_1528" />
-        <item itemvalue="Application.O25_Test_1528" />
+        <item itemvalue="Application.O35_SumOfAllOldLengthSubArray_1588" />
+        <item itemvalue="Application.O34_UniqueMorseCodeWords_804" />
+        <item itemvalue="Application.O33_SortThePeople_2418" />
+        <item itemvalue="Application.O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006" />
+        <item itemvalue="Application.O32_T_2006" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,8 @@
       <workItem from="1667806833564" duration="606000" />
       <workItem from="1668265981075" duration="4387000" />
       <workItem from="1668320264956" duration="4094000" />
-      <workItem from="1668408220270" duration="4902000" />
+      <workItem from="1668408220270" duration="5221000" />
+      <workItem from="1668487181886" duration="5437000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
@@ -190,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668324363903</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 06: 2194, 2325, 1720, 136, 66 done.">
+      <created>1668414002276</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668414002276</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +222,7 @@
     <MESSAGE value="Day 03: 1, 26, 415, 709, 2114 no problem solved." />
     <MESSAGE value="Day 05: 771, 1678, 2057, 2367, 1528 no problem solved." />
     <MESSAGE value="Day 05: note Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 05: note Update" />
+    <MESSAGE value="Day 06: 2194, 2325, 1720, 136, 66 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 06: 2194, 2325, 1720, 136, 66 done." />
   </component>
 </project>
