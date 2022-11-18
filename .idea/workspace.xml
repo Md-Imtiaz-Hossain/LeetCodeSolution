@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 06: 2194, 2325, 1720, 136, 66 done.">
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O31_CreateTargetArrayInGivenArray_1389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O33_SortThePeople_2418.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O34_UniqueMorseCodeWords_804.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/O1_easy/day_07/O35_SumOfAllOldLengthSubArray_1588.java" afterDir="false" />
+    <list default="true" id="ad9e243a-5f6d-4ecb-bf93-cff6ec9c9c0f" name="Changes" comment="Day 07: 1389, 2006, 2418, 804, 1588 done.">
+      <change afterPath="$PROJECT_DIR$/src/algo/BinarySearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/LinearSearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algo/T.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/All Solution At Once.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/All Solution At Once.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/All Solution At Once.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solved Problem No" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solved Problem No" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,13 @@
       <recent name="E:\My work\LeetCodeSolution\src\O1_easy\day_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.O35_SumOfAllOldLengthSubArray_1588">
-    <configuration name="O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006" />
+  <component name="RunManager" selected="Application.T">
+    <configuration name="BinarySearchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.BinarySearchDemo" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_07.*" />
+          <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O32_T_2006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O32_T_2006" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.BubbleSort" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_07.*" />
+          <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="O33_SortThePeople_2418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O33_SortThePeople_2418" />
+    <configuration name="LinearSearchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.LinearSearchDemo" />
       <module name="LeetCodeSolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O1_easy.day_07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="O34_UniqueMorseCodeWords_804" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O1_easy.day_07.O34_UniqueMorseCodeWords_804" />
-      <module name="LeetCodeSolution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="O1_easy.day_07.*" />
+          <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.T" />
+      <module name="LeetCodeSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.LinearSearchDemo" />
+        <item itemvalue="Application.BinarySearchDemo" />
         <item itemvalue="Application.O35_SumOfAllOldLengthSubArray_1588" />
-        <item itemvalue="Application.O34_UniqueMorseCodeWords_804" />
-        <item itemvalue="Application.O33_SortThePeople_2418" />
-        <item itemvalue="Application.O32_CountNumberOfPairsWithAbsoluteDifferenceK_2006" />
-        <item itemvalue="Application.O32_T_2006" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +152,10 @@
       <workItem from="1668265981075" duration="4387000" />
       <workItem from="1668320264956" duration="4094000" />
       <workItem from="1668408220270" duration="5221000" />
-      <workItem from="1668487181886" duration="5437000" />
+      <workItem from="1668487181886" duration="10311000" />
+      <workItem from="1668563863732" duration="597000" />
+      <workItem from="1668644712669" duration="2235000" />
+      <workItem from="1668744736735" duration="5207000" />
     </task>
     <task id="LOCAL-00001" summary="Note done.">
       <created>1666686371079</created>
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668414002276</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 07: 1389, 2006, 2418, 804, 1588 done.">
+      <created>1668493130903</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668493130903</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +231,7 @@
     <MESSAGE value="Day 05: 771, 1678, 2057, 2367, 1528 no problem solved." />
     <MESSAGE value="Day 05: note Update" />
     <MESSAGE value="Day 06: 2194, 2325, 1720, 136, 66 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 06: 2194, 2325, 1720, 136, 66 done." />
+    <MESSAGE value="Day 07: 1389, 2006, 2418, 804, 1588 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 07: 1389, 2006, 2418, 804, 1588 done." />
   </component>
 </project>
